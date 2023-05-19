@@ -87,7 +87,7 @@ function sanitisetext(str) {
 const monthCodes = { jan: "01", feb: "02", mar: "03", apr: "04", may: "05", jun: "06", jul: "07", aug: "08", sep: "09", oct: "10", nov: "11", dec: "12" };
 function generateCalenderEntry(listData) {
     for (var x = 0; x < listData.length-1; x++) {
-        console.log(listData);
+        console.log("Scaping Data");
         listData[x][2] = assDue(listData[x][2]);
         listData[x][1] = assWeight(listData[x][1]);
 

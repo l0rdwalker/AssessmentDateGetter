@@ -48,7 +48,7 @@ function Download(props) {
 
     const link = document.createElement('a');
     link.href = url;
-    link.download = 'file.txt'; 
+    link.download = 'calenderStuff.ical'; 
 
     document.body.appendChild(link);
 
