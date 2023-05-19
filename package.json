@@ -1,0 +1,18 @@
+{
+  "name": "assignment-getter",
+  "version": "1.0.0",
+  "description": "gets data for assessments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Walker",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+
+
+.form_wrapper {
+    max-width: 600px;
+    min-width: 450px;
+    background-color: rgb(189, 189, 189);
+    width: 100%;
+    margin: auto;
+}

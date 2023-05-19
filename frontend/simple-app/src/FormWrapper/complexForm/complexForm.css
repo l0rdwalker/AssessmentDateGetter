@@ -1,0 +1,15 @@
+.form label {
+    margin-bottom: 20px;
+}
+
+.complex_form_wrapper {
+    max-width: 600px;
+    min-width: 450px;
+    width: 100%;
+    margin: auto;
+}
+
+.submit_btn {
+    float: right;
+    margin-top: 20px;
+}
